@@ -1,0 +1,2 @@
+92 4.28 40 9 800 4 Vitto's 18/08/2024 "Primera_prueba._Creo_que_tienen_tremenda_ganancia_al_vender._Descripcion:_Chocolate_de_leche_Trencito,_disfruta_de_la_clasica_barra_de_chocolate_de_leche_Trencito_que_te_ha_acompañado_durante_toda_tu_vida._El_chocolate_mas_entretenido,_simple_y_familiar._Formato_24g_" True
+90 2.88 30 10 800 3 Vitto's 14/08/2024 "Ups,_parece_que_esta_era_l_aprimera_prueba." True

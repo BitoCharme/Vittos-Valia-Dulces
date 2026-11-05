@@ -1,0 +1,6 @@
+89 5.83 20 10 795 3 La_Mundial 15/04/2024 "Primera_prueba._Tienen_su_articulo_en_Wikipedia,_parece_que_no_son_una_marca,_sino_el_nombre_de_esta_familia_de_dulces._" True
+86 6.2 40 12 795 0 La_Mundial 29/05/2024 "" True
+87 5.72 45 12 1100 3 Vitto's 11/09/2024 "Vitto's_1_x_1200,_2_x_2200" True
+90 4.72 40 13 1100 3 Vitto's 28/09/2024 "Precio_de_Vitto's,_1_x_1200,_2_x_2200._Mi_madre_los_consume,_no_venden_mal,_es_sabroso." True
+89 7.13 70 13 1100 1 Vitto's 03/03/2025 "Adicional_porque_vende_bien,_y_supongo_que_lo_usaria_para_tener_energia_aunque_tenga_menos_energia_que_otros_dulces." True
+88 4.7 46 12 1200 1 Vitto's 07/09/2024 "Losp_recios_han_subido_(desde_el_2025),_ahora_vendo_1x1300,_2x2400." True

@@ -1,0 +1,2 @@
+88 26.67 75 18 1279 0 Santa_Isabel 14/03/2024 "Buena_version_de_los_clasicos._Acidos_siempre_es_un_plus_al_jugueteo_y_sabor,_aunque_menos_salud._Descripcion:_Deliciosos_dulces_para_acompañar_un_buen_momento,_ya_sea_en_un_picoteo,_cumpleaños_o_viendo_una_pelicula._" True
+84 16.85 65 15 1279 0 Santa_Isabel 16/04/2024 "Creo_que_me_equivoque_en_la_duraacion" True

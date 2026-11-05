@@ -1,0 +1,3 @@
+58 3.11 2 22 4562.96 0 Recibido 25/12/2023 "Primera,_de_frambuesa._Desilusionante" True
+78 4.5 2 20 4562.96 0 Recibido 28/12/2023 "Blanco" True
+7 4.45 2 80 4562.96 0 Recibido 28/12/2023 "Negro_y_amargo._A_dia_de_hoy_me_arrepiento_de_bajarle_tanto_el_sabor,_porque_igual_lo_pude_comer__todo._Me_falto_anotar_el_normal,_ups" True

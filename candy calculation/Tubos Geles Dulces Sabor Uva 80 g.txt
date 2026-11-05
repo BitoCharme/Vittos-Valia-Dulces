@@ -1,0 +1,2 @@
+82 20.68 50 15 1000 0 Lider_-_Maitencillo 30/07/2024 "Primera_prueba._Otra_variante_menos_sabrosa_de_los_clasicos._Rumores_afirman_que_pueden_ser_regaliz,_pero_no_aparece_en_sus_ingredientes." True
+82 15.63 55 15 1000 0 Lider_-_Maitencillo 12/08/2024 "" True

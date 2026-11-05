@@ -1,0 +1,2 @@
+85 52.37 60 16 1120 2 La_Mundial 03/12/2024 "No_es_la_primera_prueba_pero_primer_registro._Son_muy_buenos,_las_cosas_que_tienen_adentro_son_geniales_para_juguetear,_para_quedarse_masticando_y_concentrarse_en_otra_cosa." True
+83 60.92 50 14 1076 0 La_Mundial 17/11/2024 "Muy_buenos_para_quedarse_viendo_dexter,_muchas_cosas_de_ellos_me_gustan,_las_pequeñas_cositas_que_tiene_adentro_le_da_todo_el_jugueteo,_y_es_muy_buen_sabor_y_cantidad_para_quedarse_comiendo." True

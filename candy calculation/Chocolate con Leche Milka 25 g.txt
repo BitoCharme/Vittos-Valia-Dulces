@@ -1,0 +1,3 @@
+90 3.85 5 13 200 0 Metro_-_Jorge 18/03/2024 "Se_deben_derretir_rapido,_quizas_es_buena_dejarlos_en_el_refri._Compre_3_por_600,_ofrecian_4_por_1000,_lo_unico_que_hice_para_negociar_fue_sonreir_al_insistir." True
+86 8 15 10 200 0 Metro_-_Jorge 28/03/2024 "Se_derriten_pero_sigue_podiéndose_comer" True
+85 3.93 10 15 200 0 Metro_-_Jorge 30/03/2024 "Los_veo_a_600_en_internet,_sera_una_ganga?" True

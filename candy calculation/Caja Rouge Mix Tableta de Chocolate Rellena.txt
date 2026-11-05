@@ -1,0 +1,4 @@
+87 2.5 3 15 5703 0 Recibido 26/12/2023 "Primera_prueba._El_mas_delicioso_de_la_caja,_es_como_dulce_de_leche_adentro" True
+88 2.95 5 15 5703 0 Recibido 28/12/2023 "" True
+82 5.5 2 15 5703 0 Recibido 28/12/2023 "" True
+85 3.73 9 15 5703 0 Recibido 10/01/2024 "" True

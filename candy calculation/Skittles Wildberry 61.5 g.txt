@@ -1,0 +1,10 @@
+90 33.2 50 20 1350 10 Tottus_Maintencillo 15/01/2024 "Primera_prueba._La_fecha_es_falsa,_aproximacion_de_cuando_lo_comi_en_Maitencillo._Se_que_estos_son_mejores_que_los_originales,_y_los_puedo_conseguir_a_mucho_mejor_precio._También_me_arrepiento_de_ese_jugueteo._Su_descripcion:_Caramelo_Masticable_Fresa,_Fresa_Silvestre,_Frambuesa,_Cereza_y_Ponche_de_Moras_Skittles,_61.5g._¡Saborea_el_arcoiris!_Dale_color_y_variedad_a_tu_día,_y_disfruta_de_los_deliciosos_y_coloridos_caramelos_masticables_confitados_Skittles._Encuéntralos_con_sabor_a_frutilla,_frutilla_silvestre,_frambuesa,_cereza_y_ponche_de_moras._Coloridos_caramelos_masticables_Delicioso_sabor_a_frutas_Ideales_para_compartir___" True
+88 43.37 80 15 845 0 Lider 11/05/2024 "Compre_2_por_845_cada_uno_cuando_estaban_en_descuento_en_el_Lider,_para_el_cumpleanos_de_Mariano." True
+93 30.67 70 15 845 0 Lider 28/05/2024 "Son_claramente_mejores_que_los_rojos,_todos_sus_sabores_son_bien_disfrutables." True
+88 33.37 80 13 790 2 La_Mundial 24/08/2024 "Son_de_los_favoritos_de_Chris,_merecen_un_adicional_porque_se_los_puedo_vender_y_ganar,_ademas_de_lo_buenos_que_son." True
+84 17.38 70 15 1150 4 Vitto's 26/10/2024 "Desde_luego,_los_vendo_2x2300,_1x1200._Y_los_compro_en_su_caja_correspondiente." True
+93 12.62 58 15 1100 0 Vitto's 27/01/2025 "Los_vendo_1x1200,_2x2200._Me_lo_comi_rapido,_sin_darle_todo_el_jugueteo_que_se_le_puede_aprovechar." True
+87 14.77 60 15 1100 4 Vitto's 05/10/2024 "" True
+87 20.45 70 15 1200 2 Vitto's 28/04/2025 "" True
+88 22.55 70 15 1200 1 Vitto's 09/06/2025 "Vendo_1x1300,_2x2400" True
+84 12.75 65 25 1200 2 Vitto's 30/07/2025 "Adicional_por_los_colores_y_porque_se_los_vendo_a_mi_amigo" True

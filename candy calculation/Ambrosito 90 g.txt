@@ -1,0 +1,1 @@
+84 25.87 50 32 830 1 La_Mundial 11/04/2025 "Primera_prueba._Distintos_sabores_con_distintos_colores._Hay_de_pomelo,_piña,_naranja,_manzana,_aranadano_y_frutilla_creo._El_pomelo_es_el_peor,_y_el_mas_abundante,_la_frutilla_lo_contrario._Sera_a_proposito_o_tuve_mala_suerte_en_el_paquete?_Naturalmente_uno_quiere_separarlos_y_ranquearlos." True

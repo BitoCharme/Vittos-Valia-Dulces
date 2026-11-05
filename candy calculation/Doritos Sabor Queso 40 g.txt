@@ -1,0 +1,3 @@
+88 5.65 10 13 570 0 La_Mundial 28/02/2025 "Primera_prueba._Son_bastante_clasicos._Cumplen_la_clasica_maldicion/bendicion_del_salado._Personalmente_no_creo_que_tan_poco_sea_una_buena_version." True
+70 5.07 23 13 750 0 Vitto's 23/10/2024 "Vendo_1x1000,_2x1500._No_son_la_gran_cosa_evidentemente,_aunque_saben_mejor_que_lo_que_puse_aqui." True
+86 8.55 27 14 750 0 Vitto's 16/05/2025 "" True

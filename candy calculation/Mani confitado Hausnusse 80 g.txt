@@ -1,0 +1,5 @@
+75 6.05 5 35 295.2 5 Hausnusse_online 16/02/2024 "Primera_prueba._El_adicional_es_por_que_es_facil_de_compartir._Lo_compr�_a_1_kilo_por_ese_precio_y_lo_tuve_que_retirar._Este_dulce_es_algo_que_sigues_comiendo_y_ya_hasta_que_se_acaba._Quita_el_hambre_y_se_puede_seguir_y_seguir_comiendo._Tuve_que_masarlo_y_distribuirlo_en_80_g_para_registrarlo." True
+75 9.43 5 35 295.2 5 Hausnusse_online 16/02/2024 "Las_porciones_son_haber_contado_cada_mani_aunque_este_a_la_mitad" True
+75 7.33 5 35 295.2 5 Haussnuse_online 16/02/2024 "" True
+72 8.51 5 30 295.2 0 Hausnusse_online 26/02/2024 "Consumido_tras_el_trekking._Estaban_blandos,_lo_que_los_hace_menos_ricos._Parece_que_tienen_demasiada_energia,_baja_un_poco_la_salud" True
+74 8.73 12 30 295.2 5 Hausnusse_online 27/02/2024 "Un_poco_mas_de_jugueteo._Comer_mucho_de_esto_me_hace_mal,_como_cualquier_cosa,_asi_que_con_cuidado,_aunque_se_tenga_mucho_y_sea_placentero." True

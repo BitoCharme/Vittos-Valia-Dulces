@@ -1,0 +1,6 @@
+96 12.86 7 30 939 5 Santa_Isabel 12/02/2024 "Primera_prueba._Son_muy_ricos_pero_no_duran_nada_naturalmente._Probado_en_la_tina,_son_clasicos." True
+96 15.67 14 23 1170 3 Unimarc 24/03/2024 "3_adicional_porque_son_faciles_de_compartir_y_de_hablar_sobre_ellos_por_su_popularidad._El_mejor_sabor_hasta_ahora,_comidos_en_tina,_buenos_para_tina_por_el_bajo_jugueteo_y_la_familiaridad" True
+96 11.27 25 20 1170 0 Unimarc 12/03/2024 "Regalo_de_cumpleaños_de_Sagi." True
+94 17.4 15 20 1170 3 Unimarc 29/03/2024 "En_tina._Son_muy_buenos._Los_mejores_son_los_verde-amarillo,_luego_amarillo,_el_peor_naranja-rojo,_para_examinar_eso_antes_de_comprar._Un_completo_agrado_al_comer" True
+94 19.77 60 15 830 2 La_Mundial 27/03/2025 "Adicional_por_los_distintos_sabores_en_cada_color." True
+94 11.32 40 20 830 1 La_Mundial 04/04/2025 "Muy_buenos_como_siempre,_los_comi_sin_tanto_jugueteo._Adicional_por_los_colores_con_distintos_sabores." True

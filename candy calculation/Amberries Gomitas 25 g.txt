@@ -1,0 +1,2 @@
+85 6.39 35 17 333.33 3 Vitto's 11/11/2024 "Primera_prueba._El_adicional_es_porque_venden_bien._Vendo_1_por_400,_3_por_1000._Son_muy_buenas,_tienen_jugueteo_porque_se_le_puede_el_contorno_aunque_ensucia_las_manos." True
+84 5.08 70 18 333.33 1 Vitto's 17/0/2025 "Vendo_1x400,_3x1000._Max_siempre_los_compra._Adicional_por_las_cosas_que_puedes_hacer_con_ellos." True

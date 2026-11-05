@@ -1,0 +1,4 @@
+61 1.33 5 40 5475.5 4 Recibido 25/12/2023 "Cereza._Primera_prueba._Precios_calculados_considerando_gramaje" True
+64 2 10 37 5475.5 4 Recibido 25/12/2023 "Pistacho" True
+70 2.94 7 30 5475.5 0 Recibido 27/12/2023 "No_anote_cual_era" True
+67 3 15 26 5475.5 0 Recibido 30/12/2023 "Coco._Cada_uno_que_anote_es_una_porcion,_cada_uno_es_distinto._Vienen_con_la_caja_Rouge_Mix" True

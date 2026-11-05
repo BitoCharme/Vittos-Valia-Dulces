@@ -1,0 +1,4 @@
+74 2.25 2 22 6844.44 0 Recibido 26/12/2023 "Primera_prueba._Praline._Las_porciones_no_eran_correctas" True
+73 1.33 2 22 6844.44 0 Recibido 26/12/2023 "Praline" True
+72 3.71 4 23 6844.44 0 Recibido 30/12/2023 ",_aunque_no_recuerdo_bien" True
+66 2.53 15 22 6844.44 0 Recibido 10/01/2024 "Cafe_y_amarga" True

@@ -1,0 +1,2 @@
+78 33.35 46 9 1627 1 La_Mundial 19/05/2024 "Primera_prueba._2_de_adicional_por_el_picantito,_-1_por_el_dolorcito_y_las_molestias_al_comer._Tiene_el_mejor_sabor_entre_su_especie,_pero_muy_poco_picante." True
+76 40.15 35 19 1670 0 La_Mundial 30/04/2025 "Creo_que_no_me_dolio_el_estomago_al_dia_siguiente_porque_no_eran_muy_picantes,_eso_a_su_ve_arruina_su_gracia." True

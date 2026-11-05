@@ -1,0 +1,2 @@
+85 49.7 50 15 1835 0 La_Mundial 31/08/2024 "Primera_prueba._Buenos_ejemplares_geles_dulces_en_forma_de_tubo" True
+88 59.38 70 23 1835 2 La_Mundial 02/05/2025 "Tiene_ddistintos_sabores_y_el_pote_que_deja_es_muy_util,_razon_del_adicional." True

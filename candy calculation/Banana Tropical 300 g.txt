@@ -1,0 +1,2 @@
+78 72.37 40 15 1600 -2 La_Mundial 19/05/2024 "Primera_prueba._Empieza_bien_pero_luego_se_pone_aburrido._La_tecnica_es_comerlo_con_el_tiempo,_aunque_eso_no_es_muy_natural_debido_al_paquete." True
+81 51.53 35 16 1890 1 La_Mundial 04/12/2024 "Lo_de_siempre,_adicional_por_el_pote_tan_util._Creo_que_combiene_comerlo_de_a_poco,_o_pierde_toda_la_gracia." True

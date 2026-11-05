@@ -1,0 +1,2 @@
+63 4.73 5 30 397 0 La_Mundial 08/07/2024 "Primera_prueba._No_creo_que_sepa_peor_comparado_con_otros,_quizas_sea_el_cambio_de_fecha_la_razson_por_la_que_lo_coloque_si._Lo_unico_curioso_y_molestro_es_que,_uno_se_espera_que_sea_saludable,_pero_no_lo_parece_por_la_energia,_asucares_y_grasas." True
+64 3.35 5 33 397 0 La_Mundial 06/08/2024 "" True

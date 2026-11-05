@@ -1,0 +1,2 @@
+91 1.22 20 9 500 5 Vitto's 09/08/2024 "Primera_prueba._Se_vende_bien._Descripcion:_Chocolate_de_leche_Trencito,_disfruta_de_la_clasica_barra_de_chocolate_de_leche_Trencito_que_te_ha_acompanado_durante_toda_tu_vida._El_chocolate_mas_entretenido,_simple_y_familiar._Aprovecha_una_instancia_para_reunirte_con_tus_seres_queridos,_disfrutar_de_tu_barra_de_Trencito_favorita_y_aprovechar_de_ser..._" True
+92 1.72 15 9 500 3 Vitto's 27/08/2024 "" True

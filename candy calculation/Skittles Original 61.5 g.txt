@@ -1,0 +1,9 @@
+86 40.08 50 20 1000 10 Stay_Waffle_-_Maitencillo 15/01/2024 "Fecha_falsa_para_el_ranking._Uva,_frutilla_y_naranja_los_mejores._Primer_registro._Descripcion:_ï¿½Saborea_el_arcoiris!_Dale_color_y_dulzura_a_tu_dia,_y_disfruta_de_los_deliciosos_y_coloridos_caramelos_masticables_confitados_Skittles._Encuentralos_con_sabor_a_frutilla,_limï¿½n,_naranja,_uva_y_manzana_verde." True
+92 52.03 90 20 1000 10 Stay_Waffle_-_Maitencillo 25/01/2024 "Nuevo_dulce_favorito!_Aunque_la_version_morada_es_mejor" True
+90 39.83 85 20 800 10 Stay_Waffle_-_Maitencillo 03/02/2024 "Comido_en_la_tina._Se_ponen_calientes_por_el_PC,_lo_que_los_hace_peores_para_jugar._Negociado_en_Maitencilo" True
+90 71.05 90 20 800 10 Stay_Waffle_-_Maitencillo 01/02/2024 "Vistos_viendo_Hazbin_Hotel,_fecha_aproximada._Tremendo!_Luego_los_use_para_el_cine_y_todo,_espectaculares_para_ocasiones_personales." True
+87 36.28 90 15 800 0 Jose_-_Metro 7/04/2024 "4_por_3200_en_el_metro._De_seguro_se_baja_mas." True
+84 36.8 90 15 800 3 Jose_-_Metro 22/04/2024 "" True
+83 46.67 70 15 790 3 La_Mundial 05/05/2024 "Creo_que_al_empezar_a_compararlo_con_otros_dulces_va_perdiendo_su_gracia._Aun_asi_puedes_jugar_mucho_mucho_tiempo_con_el." True
+85 37.68 80 15 800 -2 José_-_Metro 14/05/2024 "-2_por_como_deja_la_lengua._Al_compararlo_con_otros_sabores_de_su_especie,_muy_malo._Fecha_aproximada" True
+83 11.75 75 13 790 3 La_Mundial 11/09/2024 "" True

@@ -1,0 +1,8 @@
+83 20.31 50 32 1990 5 Santa_Isabel 9/02/2024 "Primera_prueba._Fecha_aproximada._Su_descripcion:_Prueba_Lay's_Stax,_las_más_crujientes_y_llenas_de_sabor_en_sus_4_variedades:_Original,_Crema_y_Cebolla,_Queso_Cheddar_y_Pizza._Delicioso_sabor_Crujientes_y_sabrosas_Especial_para_compartir_con_amigos_y_familiares._Han_sido_mis_favoritas_en_mi_juventud._De_vez_en_cuando_vienen_con_mucho_queso_y_otras_con_poco._Su_precio_siempre_ha_sido_lamentable,_aunque_lo_puedo_encontrar_mucho_mas_bajo.__" True
+90 25.23 40 12 2130 3 La_Mundial 21/04/2024 "En_tina._Te_quedas_con_ganas_de_comer_muchas_mas,_quizas_tienen_mejor_aun_sabor._Fueron_mis_favoritas_en_mi_infancia." True
+86 21.2 40 10 2130 1 La_Mundial 04/07/2024 "" True
+85 24.9 50 25 1650 3 La_Mundial 11/11/2024 "Adicional_por_la_nostalgia?_Tambien_es_un_buen_salado,_son_las_tipicas." True
+88 31.97 37 14 1790 2 La_Mundial 29/03/2025 "El_adicional_por_ser_las_tipicas_mias,_y_ademas_sirven_para_compartir." True
+86 32.18 40 25 1790 1 La_Mundial 11/04/2025 "Veo_muchas_diferencias_raras_con_la_sabor_cebolla,_necesitara_mas_mediciones." True
+87 27.18 50 33 1790 1 La_Mundial 19/09/2025 "Adicional_por_pooderse_compartir_y_ser_la_tipica." True
+88 22.25 50 33 1790 2 La_Mundial 17/08/2025 "Adicional_por_compartir,_y_son_las_t_ipicas_mias." True

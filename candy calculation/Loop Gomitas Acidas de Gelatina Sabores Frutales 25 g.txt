@@ -1,0 +1,9 @@
+94 3.23 20 25 300 2 Parque_O'Higgins_-_Marco 06/07/2024 "Primera_prueba._Marco_ofrecia_1_por_500,_yo_le_compre_6_por_1800._Adicional_porque_es_facil_de_vender,_siempre_es_bueno_comprarlos._Descripcion:_Deliciosas_y_tradicionales_gomitas_acidas_Loop,_perfectas_para_degustar_y_compartir_en_toda_ocasion._Con_entretenidas_formas_de_aros._" True
+95 8.78 30 26 300 3 Parque_O'Higgins_-_Marco 08/07/2024 "El_adicional_es_porque_es_facil_de_vender." True
+95 6.47 50 19 300 7 Parque_O'Higgins_-_Marco 29/07/2024 "Esta_vez_le_di_mas_adicional_porque_ademas_parece_que_cada_color_tiene_un_sabor_diferente..._Tengo_que_probar_cada_uno_en_detalle." True
+90 6.82 50 17 300 2 Parque_O'Higgins_-_Marco 23/07/2024 "" True
+95 8.12 40 17 300 3 Parque_O'Higgins_-_Marco 17/07/2024 "El_adit_es_porque_es_vendible" True
+95 6.4 60 17 333.33 3 Vitto's 06/08/2024 "Vitto's,_3_x_1000,_1_x_400" True
+95 6.87 45 17 333.33 5 Vitto's 15/10/2024 "El_adicional_es_por_la_buena_venta,_los_distintos_colores_con_sabores_y_personal" True
+95 3.23 50 17 333.33 2 Vitto's 06/09/2024 "La_duracion_es_pi_si_cuentas_los_minutos_y_segundos._Vendo_3x100,_1x400." True
+95 5.8 45 17 333.33 3 Vitto's 12/09/2024 "" True

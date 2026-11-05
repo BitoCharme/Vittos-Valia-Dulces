@@ -1,0 +1,2 @@
+93 18.22 60 5 1270 1 La_Mundial 03/06/2025 "" True
+95 12.62 40 5 1270 1 La_Mundial 28/04/2025 "Primera_prueba._Adicioal_por_ser_huevitos,_se_pueden_abrir_y_esconder." True

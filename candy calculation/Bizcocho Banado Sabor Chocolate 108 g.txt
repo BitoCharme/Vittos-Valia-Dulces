@@ -1,0 +1,3 @@
+55 6.53 5 14 500 6 Metro_-_Henri 09/04/2024 "Primera_prueba._Viene_de_la_marca_Costa_tambien._No_tengo_claro_porque_hay_2_marcas._Fecha_aproximada._A_Henri_le_intente_negociar_chocolates_Costa_Rama_por_500_y_se_ofendio,_pensando_que_yo_lo_trataba_de_ladron_por_la_propuesta._Estaba_tan_alterado_que_seguia_y_seguia_discutiendome_para_limpiar_su_reputacion,_explicandome_la_procedencia_del_dulce._Afortunadamente,_cuando_volvio_a_pasar_dodne_yo_estaba,_seguia_obsesionado,_y_ahi_logre_apaciguarlo_y_conocerlo._Para_otro_viaje,_sin_dudarlo_me_ofrecio_a_500_estos,_que_los_vendia_a_1000._Le_compre_3_por_1500." True
+65 8.68 15 20 500 3 Metro_-_Henri 06/04/2024 "El_adicional_es_por_el_transporte." True
+61 11.55 20 13 500 3 Metro_-_Henri 12/05/2024 "Fecha_aproximada" True

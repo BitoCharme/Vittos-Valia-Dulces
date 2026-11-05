@@ -1,0 +1,3 @@
+77 3.57 35 9 99 0 La_Mundial 01/06/2024 "Primera_prueba._Fue_molesto_de_colocar_en_la_app_pero..._Su_precio_es_demasiado_bajo._Este_deberia_ser_el_mejor_entre_estos_y_los_sabor_fresa." True
+68 3.73 45 12 99 0 La_Mundial 16/06/2024 "" True
+80 3.68 50 10 99 0 La_Mundial 04/06/2024 "" True

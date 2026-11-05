@@ -1,0 +1,4 @@
+62 2.35 2 22 5703 10 Recibido 25/12/2023 "Dali,_irish._Primera_prueba" True
+77 1.55 2 20 5703 10 Recibido 26/12/2023 "Stambul,_Dulce_de_leche" True
+68 1.38 2 30 5703 10 Recibido 27/12/2023 "Amante,_(no_anote_el_otro)" True
+65.5 3.38 10 30 5703 10 Recibido 30/12/2023 "XXia,_Naranja_mediterranea._Los_adicionales_son_por_la_elegancia" True

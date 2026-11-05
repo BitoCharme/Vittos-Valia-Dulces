@@ -1,0 +1,3 @@
+88 25.83 40 12 1150 3 La_Mundial 13/09/2024 "Adicional_es_por_el_buenb_picante,_muy_muy_buen_dulce,_primer_registro." True
+77 26.5 40 10 1150 4 La_Mundial 18/08/2024 "Primera_prueba._El_adicional_es_por_el_picante._Excelente_golosoina_salada,_el_mejor_de_su_especie." True
+84 34.57 43 13 1160 0 La_Mundial 14/11/2024 "Bien_buenas,_poco_picante_pero_muy_buen_sabor_para_algo_salado" True

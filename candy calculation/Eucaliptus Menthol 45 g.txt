@@ -1,0 +1,2 @@
+40 8.52 10 40 233.33 20 Metro_-_Benito 01/06/2024 "Primera_prueba._No_son_muy_buenos,_su_gran_gracia_es_que_te_dejan_fresco_el_aliento,_aunque_creo_que_hay_personas_a_las_que_les_gustan._Le_compre_a_Benito_en_el_metro_3_por_700_pésos._Segun_el,_el_solo_gano_100_pesos_de_la_transaccion." True
+40 10.23 18 35 233.33 20 Metro_-_Benito 16/06/2024 "Parece_que_el_truco_es_separarlo_en_mas_bolsitas_y_comerlos_cada_dia_para_el_aliento._La_unica_gracia_que_tiene_es_como_dej_arefrescada_la_boca,_pero_son_demasiados_por_bolsa." True

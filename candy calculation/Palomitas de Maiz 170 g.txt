@@ -1,0 +1,4 @@
+67 32.76 30 35 800 5 Patricia_-_Estacion_Vespucio_Norte 12/04/2024 "Primera_prueba._Negociado_3_por_2400._Solo_la_madre_de_los_duenos_esta_para_negociar,_los_empleados_no._Es_divertido_comer_cabritas_porque_es_genial_estar_masticandolas_de_constante." True
+70 33.13 60 45 800 5 Patricia_-_Estacion_Vespucio_Norte 11/04/2024 "Ups,_la_otra_no_era_la_primera_prueba." True
+75 36.65 15 32 800 4 Patricia_-_Estacion_Vespucio_Norte 14/04/2024 "En_tina,_tenia_cosas_grandes_como_de_azucar_dura_muy_dulces_esparcidas,_lo_que_lo_mejora_mucho._Es_genial_quedarse_comiendolas_viendo_algo." True
+78 40.85 50 46 700 0 Yoose_-_Estacion_Vespucio_Norte 12/07/2025 "Vendia_1x1000,_simpleente_le_compre_1x700._" True

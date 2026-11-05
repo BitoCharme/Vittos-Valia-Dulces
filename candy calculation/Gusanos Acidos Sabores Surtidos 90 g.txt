@@ -1,0 +1,2 @@
+88 21.12 50 17 1175 0 Líder 24/06/2024 "Primera_prueba._Estaba_a_6%_de_descuento_por_ser_lunes,_y_mi_madre_los_compró_2x1._Descripcion:_Divertidas_y_locas_gomitas_con_forma_de_gusanos_con_sabor_acido._Diviertete_compartiendo_y_riendo_con_tus_amigos,_ya_que_estas_gomitas_son_inigualables,_ademas_de_ricas.__Sabores:_surtidos_Acidos_Sin_gluten_Contenido:_90_g" True
+88 26.28 60 17 1175 1 Lider 28/06/2024 "Es_placentero_quedarse_comiendolo_debido_a_su_buen_sabor_y_textura_que_lo_pide." True

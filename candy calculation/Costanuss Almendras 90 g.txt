@@ -1,0 +1,2 @@
+96 8.22 45 8 820 0 La_Mundial 09/05/2025 "Primera_prueba._Descripcion:_Las_Barritas_Costanuss_15_x_90_g_son_un_snack_saludable_y_energetico._Con_frutos_secos_y_semillas,_ofrecen_un_equilibrio_entre_nutricion_y_sabor,_perfectas_para_cualquier_momento_del_dia." True
+91 11.5 40 7 820 0 La_Mundial 18/04/2025 "" True

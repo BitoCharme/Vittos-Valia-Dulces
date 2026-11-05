@@ -1,0 +1,2 @@
+69 3 4 20 4277.7 0 Recibido 25/12/2023 "Primera_prueba._Las_porciones_no_andaban_muy_bien" True
+75 5 10 20 4277.7 0 Recibido 28/12/2023 "Parte_de_otra_caja" True

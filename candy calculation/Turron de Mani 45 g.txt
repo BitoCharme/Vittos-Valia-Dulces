@@ -1,0 +1,2 @@
+74 7.42 20 25 400 2 Vitto's 26/10/2024 "Primera_prueba._Vendo_2x400,_1x500._No_hay_descripcion._Es_peor_que_el_turron_Arcor_220_g,_es_una_barra_pequeña_en_comparacion." True
+75 6.15 7 35 400 0 Vitto's 03/10/2024 "" True

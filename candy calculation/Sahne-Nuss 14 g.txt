@@ -1,0 +1,3 @@
+92 2.48 23 4 500 4 Vitto's 22/08/2024 "Primera_prueba._Parte_de_un_paquete._Vendo_actualmetne_1_x_600,_2_x_500,_la_Sonia,_vendedora_en_mi_U,_los_vende_a_650_cada_uno._Son_mejores_que_los_trencitos_porque_son_mas_baratos_y_los_vendo_al_mismo_precio,_razon_del_adicional_(capacidad_de_venta)._No_me_gusta_tanto_comerlo_por_la_salud." True
+92 1.2 21 11 500 5 Vitto's 11/08/2024 "Vitto's_2_x_1000,_1_x_600" True
+92 1.68 40 11 500 3 Vitto's 10/10/2024 "Vendo_1x600,_2x1000._Pero_creo_que_luego_lo_cambie_a_100_menos_cada_uno." True

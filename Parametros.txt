@@ -1,0 +1,1 @@
+{"sabor": (69), "duracion": (1), "salud": (20), "jugueteo": (10), "precio": (15), "adicional": (30)}

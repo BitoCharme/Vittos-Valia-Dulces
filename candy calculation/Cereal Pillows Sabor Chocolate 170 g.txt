@@ -1,0 +1,2 @@
+84 15.63 16 38 1000 2 Lider 22/06/2025 "Adicional_por_la_leche_y_la_posibilidad_de_jugueteo._Una_version_mas_pequena_de_los_cereales._Precio_incierto,_mi_madre_se_metio_con_las_boletas" True
+85 17.32 50 26 940 1 Lider 13/07/2025 "" True

@@ -1,0 +1,4 @@
+3502 -5 La_Mundial 06/09/2024 "Vivan_los_loops!_Esperemos_se_vendan_bien"
+3800 -3 Romy 23/07/2024 "La_primera_caja_que_compre._Le_doy_menos_adicional_porque_no_es_tan_malo_tener_muchos_loops,_quieres_comer_muchos_y_se_venden_muy_bien."
+3502 -4 La_Mundial 02/10/2024 "Son_muy_deliciosos,_quizas_una_version_de_mas_gramaje_sea_aun_mas_barata."
+3605 -3 La_Mundial 22/03/2025 ""

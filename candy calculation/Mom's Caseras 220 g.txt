@@ -1,0 +1,1 @@
+67 25.83 5 40 1290 4 La_Mundial 12/07/2024 "Primera_prueba._Solo_sirve_para_ensaladas_y_asi,_no_sirve_comerlo_solo_pues_cansa._El_tamano_claramente_es_incorrecto_para_comerlo_uno_solo_asi._Esta_clase_de_papas_para_la_ensalada_siempre_va" True

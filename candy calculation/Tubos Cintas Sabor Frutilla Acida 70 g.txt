@@ -1,0 +1,2 @@
+82 18.28 45 15 1000 0 Lider_-_Maitencillo 22/08/2024 "Primera_prueba._Estaba_en_oferta_2_x_2000,_antes_1_x_1500._Debo_decir_que_fui_engañado,_de_seguro_el_envase_es_para_que_pienses_que_son_los_tubos_y_no_las_cintas,_que_saben_bastante_mejor." True
+84 15.32 35 15 1000 0 Lider_-_Maitencillo 05/08/2024 "" True

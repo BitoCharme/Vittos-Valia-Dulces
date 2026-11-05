@@ -1,0 +1,6 @@
+92 7.38 47 13 1500 3 Vitto's 14/08/2024 "Primera_prueba._Este_es_el_que_viene_de_una_de_las_cajas,_mi_primer_registro_con_mi_propia_marca_(no_registrada)." True
+88 7.75 65 11 1100 4 Vitto's 25/11/2024 "Vendo_1x1200,_2x2200._Mi_madre_siempre_los_quiere,_y_un_tipo_de_la_uni_que_me_compra_cada_dia._Asumire_que_por_eso_le_puse_el_adicional." True
+94 9.63 60 12 1100 3 Vitto's 09/09/2024 "" True
+93 4.63 65 14 1200 1 Vitto's 02/05/2025 "Siempre_se_venden_bien,_entre_mi_familia_incluso." True
+90 6.33 60 14 1200 1 Vitto's 04/07/2025 "1x1300,_2x2200_los_vendo_yo._Siempre_buenos,_no_me_gusta_tanto_que_duren_tan_poco" True
+93 6.03 60 15 1200 2 Vitto's 24/04/2025 "Adicional_por_Katsu-chan_y_por_poder_comerse_para_trekkings._Ahora_los_precios_son_2x2400,_1x1300" True

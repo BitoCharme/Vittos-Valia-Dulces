@@ -1,0 +1,13 @@
+87 33.4 15 40 1500 50 Recibido_(calle?) 15/01/2024 "Primera_prueba._Fecha_aproximada,_consumido_en_Maitencillo_viendo_Papers_Please_(con_agua)._El_adicional_se_debe_a_que_es_un_clasico_de_Maitencillo,_para_ir_a_comer_a_las_rocas_y_jugar_el_libro_juego._Se_de_una_distribuidora_cerca_del_metro_que_lo_vendia_barato._Descripcion:_Oblea_rellena_con_pasta_de_Maní_y_Turron._Exquisito_turron_de_mani_marca_Arcor._Esta_deliciosa_combinacion_de_texturas_y_sabores_hara_que_al_disfrutar_de_esta_rica_golosina_tengas_una_experiencia_inigualable.__Esta_barra_es_de_220_grs._y_cuenta_con_una_envoltura_que_mantiene_todo_su_sabor_y_frescura_y_las_hace_ideales_para_llevarlas_a_donde_tu_quieras,_como_al_cine_o_a_un_paseo_al_parque.__Este_clasico_de_clasicos_podrás_compartirlo_con_tus_amigos_o_familia_y_tener_un_grato_momento,_sobre_todo_con_los_amantes_de_los_dulces.___" True
+77 37.74 5 40 1500 50 Recibido_(calle?) 16/01/2024 "Fecha_aproximada._Quizás_me_pasé_con_el_jugueteo,_la_verdad_siempre_lo_estas_comiendo_y_ya._Puede_dejartelo_y_quitar_el_mani_uno_por_uno_para_juguetear,_pero_no_es_natural_en_este_dulce.___" True
+75 45.72 10 23 820 15 La_Mundial 18/04/2024 "Adit._por_Maitencillo" True
+80 46.07 13 15 820 20 La_Mundial 04/05/2024 "Adicional_por_Maitencillo,_un_clasico._Me_pregunto_sin_el_adicional_su_posision,_y_como_estara_la_salud_verdadera." True
+80 43.97 17 18 820 10 La_Mundial 12/04/2024 "Fecha_aproximada" True
+78 40.83 37 40 790 12 La_Mundial 04/07/2024 "Sin_parar_este_dulce._Si_no_fuera_por_el_adit,_su_valia_seria_de_4627.79" True
+80 48.13 25 35 790 15 La_Mundial 21/07/2024 "Sigo_con_mis_dudas_por_el_adicional,_porque_deberia_considerar_el_dulce_sin_todo_esto_si_no_estoy_en_Maitencillo._En_ese_caso,_su_valia_para_este_caso_es__4634.7" True
+77 38.43 26 30 790 18 La_Mundial 22/08/2024 "El_mejor._Ahora_ademas_les_interesa_a_mis_amigos_para_comporar,_le_doy_un_poco_mas_de_adit_por_eso." True
+77 36.85 15 40 790 10 La_Mundial 16/12/2024 "El_adicional_es_porque_puedo_venderlo_y_Maitencillo." True
+76 28.85 10 30 790 10 La_Mudial 19/09/2024 "" True
+76 28.31 10 30 790 10 La_Mundial 18/09/2024 "" True
+78 40.45 8 30 780 10 La_Mudial 18/01/2025 "Comido_en_2_iteraciones,_de_la_manera_clasica_en_Maitencillo." True
+78 54.67 17 35 806 0 La_Mundial 19/05/2025 "Adicional_por_Maitencillo,_-1_porque_estaba_demasiado_duro." True

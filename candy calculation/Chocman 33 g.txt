@@ -1,0 +1,8 @@
+77 2.93 30 12 200 0 Romy 24/07/2024 "Primera_prueba._De_verdad_sabia_tan_bien_como_para_ser_bizcocho?_Cuestiono_el_sabor._Descripcion:_Tu_bizcocho_relleno_con_manjar_y_banado_con_chocolate_favorito!._Comelo_a_toda_hora,_especial_para_quitarte_el_hambre._" True
+73 2.23 30 11 200 0 Romy 29/07/2024 "Creo_que_no_son_tan_buenos,_pero_su_final_es_bastante_bueno" True
+65 2.17 20 12 200 0 Romy 10/08/2024 "" True
+72 4.1 30 12 333.33 4 Vitto's 25/08/2024 "El_adicional_porque_se_venden_muy_rapido,_buen_precio,_aunque_se_quiebra_y_requiere_de_una_caja_especial." True
+72 2.27 12 13 333.33 4 Vitto's 29/08/2024 "" True
+78 2.38 25 12 333.33 0 Vitto's 29/03/2025 "Siempre_venden_bien,_se_inflama_mucho_y_parece_que_tiene_mas_contenido._Recien_me_empiezo_a_fijar_en_el_porcentaje_de_azucar_y_grasa." True
+72 2.8 37 13 333.33 3 Vitto's 15/10/2024 "Vendo_3_por_1000,_1_por_400._Adicional_por_lo_bien_que_venden." True
+73 2.75 35 11 333.33 4 Vitto's 09/09/2024 "" True

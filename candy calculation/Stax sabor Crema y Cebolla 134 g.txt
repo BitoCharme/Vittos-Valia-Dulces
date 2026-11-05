@@ -1,0 +1,3 @@
+80 31.63 50 11 1598 0 La_Mundial 09/07/2024 "Primera_prueba._Son_buenas,_de_estas_que_en_los_eventos_te_pones_a_comer_antes_de_que_lleguen_mas_personas._Descripcion:_Prueba_Lay's_Stax,_las_mas_crujientes_y_llenas_de_sabor_en_sus_4_variedades:_Original,_Crema_y_Cebolla,_Queso_Cheddar_y_Pizza.__" True
+85 28.33 50 50 1790 1 La_Mundial 23/04/2025 "Adicional_porque_las_puedes_compartir." True
+85 26.52 53 35 1790 1 La_Mundial 23/8/2025 "Adicional_por_poderse_compartir." True

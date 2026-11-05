@@ -1,0 +1,2 @@
+84 76.53 65 17 1835 0 La_Mundial 08/09/2024 "Primera_prueba._Deliciosos_y_baratos" True
+83 78.22 57 15 1835 2 La_Mundial 28/02/2025 "Este_era_el_ultimo_de_la_serire_de_estos_que_compre_hace_anos._Creo_que_son_los_primeros_dulces_que_compro_de_verdad._El_adicional_por_el_paquete_conveniente_que_queda_tras_comern,_y_su_significancia_para_la_app" True

@@ -1,0 +1,2 @@
+85 13.27 35 10 690 0 La_Mundial 10/10/2024 "Primera_prueba._Los_comi_hace_mucho_asi_que_no_recuerdo_del_todo." True
+85 10.5 37 9 790 1 La_Mundial 15/09/2024 "Asumuiendo_que_este_es_el_"frutilla_15x95_g",_no_se_de_donde_sale_el_15_pero_el_precio_se_acerca_supongo." True

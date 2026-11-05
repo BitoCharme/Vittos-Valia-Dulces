@@ -1,0 +1,5 @@
+73 2.47 33 20 600 0 Vitto's 07/09/2024 "Primera_prueba._Los_vendia_primero_1x1000._Luego_por_800,_y_a_veces_con_promocion_por_600_si_compran_2._Son_golosinas_nada_populares_que_no_me_compran_casi_nunca_lo_que_me_fuerza_a_comerlos_yo._Diria_a_dia_de_hoy_que_saben_bastante_mejor_que_lo_que_he_puesto_ahi._A_simple_vista_parece_saludable,_asumo_que_por_el_huevo_y_bizcocho_es_mas_saludable,_aunque_tiene_3_sellos." True
+77 1.88 10 12 600 0 Vitto's 13/09/2024 "Segunda_prueba_parece,_no_se_porque_esas_stats_la_verdad,_aunque_al_menos_el_sabor_esta_mas_acertado." True
+73 3.25 15 13 600 0 Vitto's 06/10/2024 "Nuevamente,_en_desacuerdo_con_las_stats." True
+78 3.32 15 20 600 0 Vitto's 23/10/2024 "" True
+80 2.47 15 13 600 0 Vitto's 02/03/2025 "Tras_mucho_tiempo,_stats_actualizadas._Deberia_de_comerse_siempre_con_agua" True

@@ -1,0 +1,2 @@
+84 4.62 20 12 800 -3 Beaucheff_x_Tupper 29/08/2024 "Primera_prueba._No_recuerdo_el_nombre_del_señor,_pero_compre_todos_los_que_le_quedaban,_los_vendia_a_1000,_compre_5_por_800_cada_uno._Parece_que_me_los_vendieron_vencidos._Tambien_no_son_buenos_para_venderse_y_se_rompen." True
+84 5 20 20 800 0 Beaucheff_x_Tupper 23/08/2024 "Vencido_y_aplastado" True

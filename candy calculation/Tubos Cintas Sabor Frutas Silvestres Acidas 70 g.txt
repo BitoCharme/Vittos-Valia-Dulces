@@ -1,0 +1,2 @@
+83 18.38 50 16 1000 0 Lider_-_Maitencillo 31/07/2024 "Primera_prueba._Engañoso_nombre,_creo_que_la_gracia_del_similar_es_que_te_confundas_con_su_version_de_tubos_para_comprarlo._Descripcion:_Deliciosos_dulces_para_acompañar_un_buen_momento,_ya_sea_en_un_picoteo,_cumpleanos_o_viendo_una_pelicula._Geles_con_forma_de_cintas_Sabor_frutas_silvestres_Contiene_aromatizante_identico_al_natural" True
+76 13.93 35 15 1000 0 Lider_-_Maintencillo 31/08/2024 "" True

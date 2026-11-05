@@ -1,0 +1,3 @@
+73 8.1 75 11 99 0 La_Mundial 14/05/2024 "Primera_prueba._Fecha_aproximada._Como_erda_de_esperarse,_dulce_porqueria,_anadirlo_a_la_aplicacion_ha_sido_una_total_molestia_considerando_que_es_de_otro_pais,_sus_kilocalorias_no_salen_cada_100_gramos,_pero_lo_peor:_por_alguna_razon_este_no_dice_"bib's",_por_lo_que_parece_que_es_distinto_a_los_de_su_especie_por_alguna_razon._Y_es_peor_incluso." True
+72 4.57 50 11 99 0 La_Mundial 30/05/2024 "Uff._Su_precio_es_tan_bueno_que_suben_mucho._Aunque_se_que_los_celestes,_los_de_leche,_son_mucho_mejores._Ojala_estos_bajen_y_los_otros_suban_pronto." True
+61 3.92 37 11 99 0 La_Mundial 13/06/2024 "" True
